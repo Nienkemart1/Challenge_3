@@ -45,15 +45,9 @@ function initMap() {
         {lat: 52.343349, lng: 4.854337, info: "Olympic stadium in Amsterdam, the Netherlands"},//Nederland, stadium
         {lat: 55.511234, lng: -4.610395, info: " Glasgow Prestwick Airport in South Ayrshire, UK"},//England, vliegveld
         {lat: 48.975658, lng: 14.480255, info: "Ceske Budejovice in South Bohemia, Czechia"}, //Tsjechie, vliegveld
-        {lat: 30.013056, lng: 31.208853, info: "Al Omraneyah in Giza, Egypt"}, //Egypte, vliegveld
         {lat: 52.514610, lng: 13.239665, info: "Olympiastadion in Berlin, Germany"}, //Duitsland, stadium 
         {lat: 38.286831, lng: -0.557224, info: "Alicante Airport in Alicante, Spain"}, //Spanje, vliegveld
         {lat: 41.899647, lng: 12.487023, info: "Quirinal Palace in Rome, Italy"}, //italie, vliegveld
-        {lat: 46.191666, lng: 2.236802, info: "Gouzon, France"}, //Frankrijk, vliegveld
-        {lat: 52.673306, lng: -8.642367, info:"homond Park Stadium in Limerick, Ireland"}, //Ierland, stadium
-        {lat: 49.628899, lng: 6.214745, info: "Luxembourg Airport, Luxembourg"}, //Luxemburg, vliegveld
-        {lat: 47.451542, lng: 8.564572, info: "Zurich Airport in Zürich-Flughafen, Switzerland"}, //Zwitserland, vliegveld
-        {lat: 47.083332, lng: 12.842778, info: "Grossglockner High Alpine Road"}, //Oostenrijk Park
     ]
 
 
