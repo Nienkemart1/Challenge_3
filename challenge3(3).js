@@ -9,7 +9,7 @@ function getStadAPIdata() {
     	var text = '';
       console.log(response.result.records);
       for (var i =0; i < response.result.records.length; i++) {
-        text +=  (response.result.records[i].STRAAT +'<br>')
+        text =  (response.result.records[i].STRAAT +'<br>')
       }
       document.getElementById('buurt').innerHTML = text;
 
