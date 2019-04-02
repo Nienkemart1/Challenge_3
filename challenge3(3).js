@@ -1,6 +1,6 @@
 function getStadAPIdata() {
     fetch('https://ckan.dataplatform.nl/api/action/datastore_search?resource_id=a90c1897-6c48-455f-a474-98097c43d1a7')
-    //
+    //haal steden op uit bovenstaande api key url
 
     .then(function(response) {
         return response.json();
